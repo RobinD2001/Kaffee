@@ -1,2 +1,2 @@
 # Kaffee
- Tutorium 7
+ Lösung für Tutorium 7 Einführung in die Informatik
